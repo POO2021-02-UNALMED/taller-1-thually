@@ -2,3 +2,11 @@ Alejandro Salazar Mejía
 21 años de edad
 Con esta materia espero ampliar mucho más 
 mis conocimientos en el área de la programación
+Cuando creamos el archivo "respuesta.txt", la carpeta "archivos"
+dejó de estar vacía, y ahora Git tiene en cuenta esto como un cambio
+
+Es importante tener cuidado con modificar dos archivos al mismo tiempo
+porque, al igual que en este ejemplo, se pordía crear un comflicto que debe ser 
+solucionado manualmente, y este conflicto puede volverse en particular complejo y delicado
+si los archivos involucran código fuente y son importantes para el funcionamiento
+del programa que se esté creando.
