@@ -1,0 +1,2 @@
+Cuando creamos el archivo "respuesta.txt", la carpeta "archivos"
+dejó de estar vacía, y ahora Git tiene en cuenta esto como un cambio
