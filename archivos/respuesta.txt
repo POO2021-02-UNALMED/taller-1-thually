@@ -1,0 +1,5 @@
+Después de crear la carpeta "archivos", 
+fui al GitHub Desktop para hacer commit de este cambio,
+pero no aparecía la opción de hacerlo.
+Esto se debe a lo que explicó el monitor en clase:
+Git no tiene en cuenta las carpetas vacías.
